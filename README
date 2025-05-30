@@ -1,0 +1,4 @@
+This C# Selenium script automatically tests three fields (First Name, Gender, Description)
+on the CloudQA Automation Practice Form, even if HTML structure changes.
+
+Requirements: ChromeDriver, .NET, Selenium WebDriver
